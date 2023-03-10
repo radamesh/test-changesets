@@ -1,5 +1,11 @@
 # nteste
 
+## 2.0.2
+
+### Patch Changes
+
+- neew branch in project
+
 ## 2.0.1
 
 ### Patch Changes
